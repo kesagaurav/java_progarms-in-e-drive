@@ -1,0 +1,24 @@
+
+public class Main {
+
+	private String name;
+	private int accno;
+	
+	public void setbank(String name,int accno) {
+		name=name;
+		accno=accno;
+	}
+	
+	
+	public void showbank() {
+		System.out.println("\n name="+name +"\n accno"+ name);
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

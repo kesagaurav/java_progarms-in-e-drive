@@ -1,0 +1,2 @@
+module applet2 {
+}

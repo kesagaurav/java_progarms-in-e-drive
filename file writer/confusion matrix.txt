@@ -1,0 +1,1 @@
+confusion matrix is used for the measurment of the recall,precision and accuracy 

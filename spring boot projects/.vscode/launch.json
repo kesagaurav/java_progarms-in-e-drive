@@ -1,0 +1,49 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Springdemo3Application",
+            "request": "launch",
+            "mainClass": "com.example.springdemo3.Springdemo3Application",
+            "projectName": "springdemo3"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Springbootdemo2Application",
+            "request": "launch",
+            "mainClass": "com.example.springbootdemo2.Springbootdemo2Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo1Application",
+            "request": "launch",
+            "mainClass": "com.example.demo1.Demo1Application",
+            "projectName": "demo1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Springdemo2Application",
+            "request": "launch",
+            "mainClass": "com.example.springdemo2.Springdemo2Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootpracticalApplication<springbootpractical>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.springbootpractical.SpringbootpracticalApplication",
+            "projectName": "springbootpractical",
+            "args": ""
+        }
+    ]
+}

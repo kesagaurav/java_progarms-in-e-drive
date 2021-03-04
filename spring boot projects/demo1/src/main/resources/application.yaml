@@ -1,0 +1,15 @@
+
+server:
+  port: 8086
+
+spring:
+  datasource:
+    url: jdbc:mariadb://revy-senpai.c7otdgsixoyh.us-east-2.rds.amazonaws.com:3306/springboot1db
+    username: springboot1user
+    password: mypassword
+    driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    show_sql: true
+    hibernate:
+      ddl-auto: update
